@@ -1,0 +1,23 @@
+<%- include("./include/header.ejs") %>
+
+<body>
+    <form action="http://localhost:4040/sendmail" method="POST">
+        <h1>WeFarmous<br>Email Sender </h1>
+
+        <section>
+            <input name="to" class="" type="email" placeholder="E-mail address of receiver" />
+        </section>
+        <section>
+            <input name="subject" class="" type="text" placeholder="Subject of e-mail" />
+        </section>
+        <section>
+            <textarea name="body" class="" type="text" placeholder="Body of message"></textarea>
+        </section>
+        <section>
+            <input type="submit" value="Send Email" />
+        </section>
+        <p>@WeFarmous</p>
+    </form>
+</body>
+
+</html>
