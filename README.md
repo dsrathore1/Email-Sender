@@ -1,5 +1,3 @@
-
-
 <h1 align = "center"><img src="https://github.com/dsrathore1/Email-Sender/blob/master/Public/Assets/Img/icon.png" width="42px" height="39" alt="emailbox"> Email Sender Web Application</h1>
 <p align = "justify">This website is highly dynamic and ready to use. Now, I can easily send my email with the help of this app. I use expressjs for API generate, although I learned lots of more new things with this project are Listed below.</p>
 
