@@ -9,17 +9,17 @@
 
 </br>
 
-## * Email Sender GIF *
+## *Email Sender GIF*
 <img src="https://github.com/dsrathore1/Email-Sender/blob/master/Public/Assets/GIFs/ES.gif">
 
-## * Send your mail *
+## *Send your mail*
 <img src="https://github.com/dsrathore1/Email-Sender/blob/master/Public/Assets/Img/4.png">
 
-## * Filled inputs *
+## *Filled inputs*
 <img src="https://github.com/dsrathore1/Email-Sender/blob/master/Public/Assets/Img/1.png">
 
-## * Successfully Sent *
+## *Successfully Sent*
 <img src="https://github.com/dsrathore1/Email-Sender/blob/master/Public/Assets/Img/2.png">
 
-## * Error 404 *
+## *Error 404*
 <img src="https://github.com/dsrathore1/Email-Sender/blob/master/Public/Assets/Img/3.png">
